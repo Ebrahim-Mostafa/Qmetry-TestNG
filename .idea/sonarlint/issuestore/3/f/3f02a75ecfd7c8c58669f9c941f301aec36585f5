@@ -1,0 +1,24 @@
+
+[	java:S112K"FDefine and throw a dedicated exception instead of using a generic one.(Íõ©
+„
+java:S1130"nRemove the declaration of thrown exception 'java.io.IOException' which is a subclass of 'java.lang.Exception'.(Õ¸ý
+”
+java:S1130"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(½°­äÿÿÿÿÿ
+M	java:S106;"9Replace this use of System.out or System.err by a logger.(Ÿ†ý
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(Ž¡Æðÿÿÿÿÿ
+W	java:S107"=Method has 10 parameters, which is greater than 7 authorized.(¸ñüîúÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ÓÎÖ„
+‹
+java:S1130"uRemove the declaration of thrown exception 'java.net.ProtocolException' which is a subclass of 'java.io.IOException'.(Õ¸ý
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(ÐÙÀ‰ýÿÿÿÿ
+E
+java:S2093]"*Change this "try" to a try-with-resources.(þ¶Åàûÿÿÿÿ
+„
+java:S1130K"nRemove the declaration of thrown exception 'java.io.IOException' which is a subclass of 'java.lang.Exception'.(Íõ©
+•
+java:S1130"Remove the declaration of thrown exception 'java.io.UnsupportedEncodingException' which is a subclass of 'java.io.IOException'.(Õ¸ý
+O
+java:S4719>"9Replace charset name argument with StandardCharsets.UTF_8(áç»©
+\
+java:S1192 "FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(íª­¤
